@@ -1,0 +1,47 @@
+body {
+    background-color: dodgerblue;
+    text-align: center !important;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.inputtxt {
+    margin-top: 1%;
+    font-size: 30px;
+    border-radius: 15px; 
+    border: thin; 
+    margin: 5px; 
+    padding: 5px; 
+    outline: none; 
+    color: dodgerblue;
+    border-color: aliceblue; 
+    box-shadow: 2px 4px 5px #fff;
+}
+.litxt {
+    margin-top: 1%;
+    color: #fff;
+    font-size: 30px;
+    border-radius: 15px; 
+    border: thin; 
+    margin: 5px; 
+    padding: 5px; 
+    list-style-type:none;
+    outline: none; 
+    border-color: aliceblue; 
+    box-shadow: 2px 4px 5px #fff;
+}
+.inputbtn {
+    margin-top: 1%;
+    width: 130px;
+    height: 50px;
+    padding: 0px;
+    font-size: 20px;
+    font-weight: 900;
+    border-radius: 5px;
+    border-color: aliceblue; 
+    box-shadow: 2px 4px 5px #fff;
+    background-color: dodgerblue;
+    color: white;
+    margin: 5px; 
+    padding: 5px; 
+    outline: none; 
+    cursor: pointer; 
+}
